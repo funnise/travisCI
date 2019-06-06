@@ -12,5 +12,5 @@ branches:
   - master
 
 
-cript:
+script:
  - npm -v
